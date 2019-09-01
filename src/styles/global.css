@@ -3,3 +3,9 @@
 @tailwind components;
 
 @tailwind utilities;
+
+span,
+a {
+  color: #f7b500;
+  transition: all 200ms ease-in;
+}
