@@ -2,7 +2,7 @@ import React from "react"
 import Hero from "../components/hero"
 import SEO from "../components/seo"
 
-import Styles from "../styles/global.css"
+import "../styles/global.css"
 
 const IndexPage = () => (
   <>
